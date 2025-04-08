@@ -1,0 +1,3 @@
+pip install svglib 
+pip install reportlab
+pip install rlPyCairo 
